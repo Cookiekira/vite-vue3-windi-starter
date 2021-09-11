@@ -2,9 +2,16 @@
 
 This template should help get you started developing with Vue 3 Typescript and WindiCSS in Vite.
 
+This starter template also includes:
+
+- [Vue Router 4.x](https://github.com/vuejs/vue-router-next)
+- [Vuex 4.x ](https://next.vuex.vuejs.org/)
+
 ## Recommended IDE Setup
 
 - [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+
+- [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Cookiekira/vite-vue3-windi-starter)
 
 ## Type Support For `.vue` Imports in TS
 
@@ -17,7 +24,7 @@ pnpm install
 
 ### Compiles and hot-reloads for development
 ```
-pnpm run serve
+pnpm run dev
 ```
 
 ### Compiles and minifies for production

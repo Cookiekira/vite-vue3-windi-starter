@@ -8,6 +8,7 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "eslint": "^7.32.0",
     "vue": "^3.2.11",
     "vue-router": "^4.0.11",
     "vuex": "^4.0.2"
