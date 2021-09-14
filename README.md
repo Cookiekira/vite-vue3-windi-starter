@@ -29,7 +29,7 @@ pnpm run dev
 
 ### Compiles and minifies for production
 ```
-pnpm run build
+pnpm vite build
 ```
 
 ### Lints and fixes files
